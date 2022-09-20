@@ -5,7 +5,7 @@
   "scripts": {
     "deploy": "gh-pages -d src"
   },
-  "name": "curso-asincronismo",
+  "name": "landing-page",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
